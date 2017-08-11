@@ -1,0 +1,14 @@
+name: "D J Kunz"
+navbar:
+  title: "D J Kunz"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+
+output_dir: "."
+output:
+  html_document:
+    theme: cosmo
+
