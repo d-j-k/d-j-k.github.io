@@ -11,4 +11,6 @@ output_dir: "."
 output:
   html_document:
     theme: cosmo
-
+    include:
+        in_header: favicon.html
+        
